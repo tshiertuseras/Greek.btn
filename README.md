@@ -44,7 +44,7 @@
  ⚠️ <strong>Downlaod🛠️</strong> The use of this tool for any form of attack or unauthorized testing is strictly prohibited and may result in severe legal consequences. This tool is exclusively designed for educational and research purposes only.
 </p>
 
-1. **Clone the Repository**: git clone https://github.com/tshiertuseras/Greekbtn
+1. **Clone the Repository**: git clone https://github.com/tshiertuseras/Greek.btn
 2. **Open Terminal in the Folader**: cd Greek.btn
 3. **Run the file**: python soic.py
 4. It works in cloudshell https://cloud.google.com/shell
